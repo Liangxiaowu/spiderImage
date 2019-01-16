@@ -3,13 +3,12 @@
 简单的图片爬取
 
 * 编程语言  
-    * 脚本语言  
-        * Python
+    * Python
 
-##第三方依赖库
-'''python
+## 第三方依赖库
+```python
 pip3 install beautifulsoup4
-'''
-'''python
+```
+```python
 pip3 install requests
-'''
+```
